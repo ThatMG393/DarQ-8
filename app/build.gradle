@@ -12,7 +12,7 @@ android {
     compileSdkVersion 32
     defaultConfig {
         applicationId "com.kieronquinn.app.darq"
-        minSdkVersion 29
+        minSdkVersion 27
         targetSdkVersion 32
         versionCode 22
         versionName tagName
